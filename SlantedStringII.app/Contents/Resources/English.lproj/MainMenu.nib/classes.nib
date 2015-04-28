@@ -1,0 +1,14 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {setFont = id; setString = id; }; 
+            CLASS = AppController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {popupBTN = NSPopUpButton; stringTF = NSTextField; stringView = StringView; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = StringView; LANGUAGE = ObjC; SUPERCLASS = NSView; }
+    ); 
+    IBVersion = 1; 
+}
