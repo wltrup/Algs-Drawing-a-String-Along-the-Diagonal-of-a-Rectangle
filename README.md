@@ -8,6 +8,8 @@ My algorithm was subsequently adopted by the person who asked the question, who 
 
 Shortly thereafter, it occurred to me that another algorithm could be used whereby the string isn’t centered along the rectangle’s diagonal. Both versions of the algorithm are available in this repository.
 
+![](comparison.png)
+
 Originally written on August 27, 2006.
 
 ## Creator
